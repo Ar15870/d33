@@ -1,0 +1,3 @@
+rootProject.name = 'd3'
+include 'domain' ,'repository','service','controller'
+
